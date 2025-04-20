@@ -25,7 +25,7 @@ This is a basic Python script that connects to a MySQL database and performs dir
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/21amY26/Telephone-Directory.git
    cd your-repo-name
    ```
 
