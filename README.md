@@ -30,11 +30,11 @@ This is a basic Python script that connects to a MySQL database and performs dir
    ```
 
 2. **Install required Python libraries:**
-   '''bash
+   ```bash
    pip install mysql-connector-python
    pip install prettytable
    pip install python-dotenv
-   '''
+   ```
 3. **Setup your `.env` file (DON’T upload this file to GitHub!):**
    ```env
    DB_HOST=localhost
